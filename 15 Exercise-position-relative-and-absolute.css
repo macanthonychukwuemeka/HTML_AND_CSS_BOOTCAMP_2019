@@ -1,0 +1,102 @@
+body{
+  height: 3000px;
+}
+.blackdot{
+position: relative;
+}
+
+.cancel{
+  background-color: black;
+  color: white;
+  display: flex;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 17px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.blank-box{
+  height: 180px;
+  width: 350px;
+  background-color: gray;
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+}
+
+
+
+
+.Ex-15c-container{
+position: relative;
+}
+.cancel1{
+  background-color: black;
+  color: white;
+  display: flex;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 17px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 20;
+}
+
+.blank-box1{
+  height: 200px;
+  width: 300px;
+  background-color: gray;
+  position: absolute;
+  top: 35px;
+  left: 35px;
+}
+
+
+
+
+
+
+
+.Ex-15d-container{
+  height: 200px;
+  width: 300px;
+  background-color: gray;
+  position: relative;
+  top: 250px;
+  bottom: 500px;
+  left: 20px;
+}
+.ex-d-blackdot{
+background-color: black;
+color: white;
+position: absolute;
+top: -10px;
+left: -10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 15px;
+padding-right:15px;
+border-radius: 20px;
+}
+
+.time{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  position:absolute;
+  bottom: 20px;
+  right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 6px;
+  padding-right:6px;
+}
+
+

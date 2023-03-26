@@ -1,0 +1,68 @@
+
+body{
+height: 3000px;
+background-color: lightgray;
+}
+
+
+.header{
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left:0px
+}
+
+.profile{
+  display: flex;
+  flex-direction: row;
+  margin-left: 15px;
+  align-items: center;
+
+}
+
+.profile-picture{
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-left:30px;
+
+}
+
+.user-name{
+font-family: arial;
+font-size: 20px;
+margin-left: 10px;
+}
+
+
+
+.add-friend{
+  background-color: rgb(72, 72, 255);
+  color: white;
+  border: none;
+  padding-top:7px;
+  padding-bottom: 7px;
+  padding-right:10px;
+  padding-left:10px;
+  border-radius: 5px;
+  margin-right: 5px;
+  font-weight: bold;
+
+}
+.message-button{
+  font-weight: bold;
+  border: none;
+  padding-top:7px;
+  padding-bottom: 7px;
+  padding-right:10px;
+  padding-left:10px;
+  border-radius: 5px;
+  margin-right: 50px;
+
+}

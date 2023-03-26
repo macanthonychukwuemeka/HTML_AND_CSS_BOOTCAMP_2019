@@ -1,0 +1,163 @@
+
+.square{
+  display: block;
+  background-color: red;
+  WIDTH :100px;
+  height: 100px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+.circle{
+  display: inline-block;
+  background-color: green;
+  color: green;
+  border-radius: 50px;
+  WIDTH :100px;
+  height: 100px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+.comment-div{
+  color: black;
+  margin-bottom: 10px;
+  border-width: 2px;
+  border:5px;
+  border: dimgray;
+}
+.comment{
+  font-family: arial;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+ button{
+  margin-left: 10px;
+
+}
+.review{
+  display: inline-block;
+  background-color: grey;
+  color: white;
+  margin-left: 5px;
+  padding-left: 10px;
+  
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.install{
+  font-family:arial ;
+  font-weight: bold;
+  font-size: 22px;
+  border-color: grey;
+}
+.add-youtube{
+  width: 350px;
+}
+.mac-anthony{
+
+width: 200px ;
+margin-top: 10px;
+
+}
+
+.mutual-friend{
+color: grey;
+
+}
+.add-friend{
+background-color: rgba(8, 108, 240, 0.637);
+color: white;
+border: none;
+padding-top: 7px;
+padding-bottom:7px;
+padding-right:7px;
+padding-left: 7px;
+border-radius:10px ;
+}
+
+
+.div-profile{
+  display: block;
+  border: black;
+  border-width: 2px;
+  display: inline-block;
+  border-width: 2px;
+  margin-left: 20px;
+ 
+}
+
+.awardlogo{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+
+}
+.placeholder{
+  border: none;
+}
+.text-box{
+  font-size: 50px;
+  border: none;
+  width: 300px;
+  height: 25px;
+  vertical-align:middle ;
+}
+.tweet{
+  background-color: rgb(60, 135, 247);
+  color:white;
+  border: none;
+  width: 80px;
+  height: 35px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+  border: none;
+  border-radius: 17.5px;
+}
+.twitter-profile{
+  display: inline-block;
+border-color:blue;
+border-width: 50px;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+margin-top: 10px;
+}
+.div-duplicate{
+display: block;
+}
+.div1{
+ vertical-align: middle;
+ width: 300px;
+}
+.Google_logo_.jpg{
+  width: 150px;
+  height: 750px;
+
+}
+
+.google-URL{
+  width: 150px;
+  height: 50px;
+  border: none;
+  box-shadow: rgba(0, 5, 10, 0.5);
+  border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

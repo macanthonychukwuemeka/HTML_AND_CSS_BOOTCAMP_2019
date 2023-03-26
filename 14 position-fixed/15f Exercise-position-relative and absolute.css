@@ -1,0 +1,23 @@
+.container{
+  background-color: lightgray;
+  position: relative;
+  height: 600px;
+  top:10px;
+  bottom: 20px;
+  left:20px;
+  right: 10px; 
+  align-items: center;
+  justify-content: center;
+}
+.promotion{
+
+}
+.image-container{
+
+}
+.button-shade{
+
+}
+.Add-to-Cart{
+
+}

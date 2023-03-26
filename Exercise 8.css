@@ -1,0 +1,120 @@
+.name,
+.email{
+  display: block;
+  margin-bottom: 5px;
+}
+
+
+
+.speech,
+.yes,
+.no{
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle; 
+}
+.google-logo{
+  margin-left:250px;
+  width: 230px;
+  height: 200px;
+  object-fit: contain;
+  vertical-align: middle;
+}
+.GOOGLE-SEARCH{
+
+display: block;
+border-radius: 30px;
+padding-right: 16px;
+padding: left 16px; ;
+padding-top: 12px;
+padding-bottom: 12px;
+font-size: 16px;
+width: 500px;
+margin-bottom: 10px;
+}
+.first1,
+.first2{
+display: inline-block;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 16px;
+font-size: 16px;
+border-radius: 5px;
+margin-bottom: 12px;
+}
+
+.email-sign{
+  display: block;
+padding-top: 12px;
+padding-bottom: 12px;
+border-radius: 5px;
+padding-right: 265px;
+margin-bottom: 10px;
+font-size: 13px;
+}
+.email-sign:hover{
+border:none;
+}
+
+.sign{
+  background-color: rgb(47, 127, 231);
+  color: white;
+  border:none;
+  width: 350px;
+  border-radius: 8px;
+  padding-top:14px;
+  padding-bottom: 14px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 35px;
+ 
+}
+
+.ride-request{
+font-family: arial;
+font-size: 36px;
+font-style: bold;
+
+}
+
+.pickup-location,
+.destination{
+  display: block;
+  background-color: rgb(243, 237, 237);
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 120px;
+  margin-bottom: 10px;
+  font-size: 16px; 
+}
+.request-now{
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+  font-size: 16px; 
+
+}
+.Schedule{
+  background-color: rgb(243, 237, 237);
+  border: none;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 19px;
+  padding-right: 25px;
+  padding-LEFT: 25px;
+  margin-left: 20px;
+
+}
+
+
+
+
+
+
+

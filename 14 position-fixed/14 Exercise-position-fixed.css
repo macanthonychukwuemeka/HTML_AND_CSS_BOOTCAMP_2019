@@ -1,0 +1,74 @@
+body{
+  height: 3000px;
+  background-color: rgb(211, 208, 204);
+ }
+p{
+  font-family: arial;
+}
+
+
+.position-fixed{
+  background-color: black;
+  color: white;
+  position: fixed;
+  bottom: 20px;
+  left:20px;
+}
+
+
+
+
+.right-sidebar{
+background-color: green;
+color: white;
+position: fixed;
+top: 0;
+bottom: 0;
+right: 0;
+width: 150px;
+justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+background-color: white;
+position: fixed;
+top:400px;
+bottom: 300px;
+left: 200px;
+right: 200px;
+border-radius: 5px;
+}
+.modal-title{
+ color: black;
+ font-size: 20px;
+ font-weight: bold;
+ margin-left: 15px;
+ margin-top:15px ;
+}
+.modal{
+
+  margin-left: 15px;
+  margin-top:5px ;
+}
+button{
+  
+ margin-left: 15px;
+ margin-top:5
+}

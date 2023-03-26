@@ -1,0 +1,30 @@
+body{
+  height: 3000px;  background-color: gray;
+
+}
+
+
+.product-container{
+  position: relative;
+  display: inline-block;
+ }
+ 
+.product-image{
+  height: 600px;
+  width: 600px;
+  object-fit: cover;
+  margin-top: 30px;
+ }
+.promotion{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 45px;
+      right: 0px;
+      font-family: arial;
+    padding-left: 7px;
+    padding-right:7px ;
+    padding-top: 5px;
+    padding-bottom:5px;
+    cursor:pointer;
+}
